@@ -66,3 +66,10 @@ curl -vvv http://127.0.0.1:8080/update?q=10
 curl -vvv http://127.0.0.1:8080/fortunes
 curl -vvv http://127.0.0.1:8080/cached-worlds?q=10
 ```
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/apps.git && cd apps
+```
